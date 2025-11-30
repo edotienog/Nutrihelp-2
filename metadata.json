@@ -1,0 +1,7 @@
+{
+  "name": "Copy of NutriHelp",
+  "description": "Personalized nutritional assistant for Australian seniors, featuring meal planning and product safety scanning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
